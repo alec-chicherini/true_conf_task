@@ -1,7 +1,7 @@
 ﻿// true_conf_task.cpp
 // 
 //tested with latest versions:
-//|     |Windows 10|WSL - Ubuntu-20.04|
+//|*****|Windows 10|WSL - Ubuntu-20.04|
 //|MSVC | x64 x86  |                  |
 //|GCC  |          |x64               |
 //|Clang| x86      |x64               | 
