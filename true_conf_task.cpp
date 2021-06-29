@@ -19,8 +19,7 @@
 
 using namespace std;
 
-//uncomment to check map and vector state
-//#define DEBUG
+#define DEBUG
 
 using DATA_T = short;
 using SIZE_T = unsigned long;
